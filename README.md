@@ -1,4 +1,5 @@
 # Power BI Portfolio | Data Analytics Projects
+(https://www.novypro.com/profile_about/arielchocobar)
 
 This repository showcases three Power BI projects designed to demonstrate strong capabilities in data analysis, business intelligence, and dashboard design. These projects highlight practical experience with real-world scenarios, focusing on transforming raw data into actionable insights for decision-making.
 
